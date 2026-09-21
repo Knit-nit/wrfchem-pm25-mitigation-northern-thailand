@@ -21,5 +21,5 @@ The custom scripts in this repository rely on standard scientific Python and NCL
 WRF-Chem output files are not included due to size. Scripts assume model output is available locally.
 
 ## Citation
-If you use this code, please cite the manuscript and Zenodo archive.
-DOI: [10.5281/zenodo.XXXXXXXX] (จะใส่ DOI จริงหลังจากสร้าง Release เสร็จแล้ว)
+Nittaya Chk. (2026). Knit-nit/wrfchem-pm25-mitigation-northern-thailand: Initial release for manuscript submission (Version v1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.2288024
+
